@@ -9,9 +9,9 @@
 
 using namespace std;
 
-
-void parse_input (string& input, vector<string>& result){
-  
+// parses string of a sentence into vector of words
+vector<string> parse_input (string& input){
+  vector<string> result;
   string word;
 
   for (auto x: input){
@@ -24,6 +24,7 @@ void parse_input (string& input, vector<string>& result){
     }
   }
   result.push_back(word);
+  return result;
 }
 
 
@@ -43,7 +44,7 @@ int main(int argc, char*argv[]) {
   getline(cin, input);
 
   // parses the keywords that the user inputs into vectors of words
-  parse_input(input, input_words);
+  input_words = parse_input(input);
 
   
   unordered_set<int> tweets_set; // hold the tweet numbers that shares similarities with at least one word with the user's query
