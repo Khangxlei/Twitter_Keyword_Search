@@ -9,7 +9,16 @@
 
 using namespace std;
 
+string toRawString(std::string const& in){
+   std::string ret = in;
+   auto p = ret.find('\t');
+   if ( p != ret.npos )
+   {
+      ret.replace(p, 1, "\\t");
+   }
 
+   return ret;
+}
 
 void InvertedIndex::addfile(string filename) {
   ifstream input;
@@ -25,7 +34,7 @@ void InvertedIndex::addfile(string filename) {
   int tweet_no = 0;
 
   while(getline(input, input_line)) {
-    stringstream s(input_line);
+    stringstream s(toRawString(input_line));
     tweet_no++;
     similarity_score[tweet_no] = 0; //setting similarity score to 0
     tweet[tweet_no] = input_line; //setting the tweet number to its actual tweet
@@ -80,7 +89,6 @@ vector<int> InvertedIndex::relevant_tweets(vector<int> list){
       if (similarity_score[list[i]] < similarity_score[result[j]]) break;
       ind++;
     }
-    //cout << "ind: " << ind << endl;
     result.insert(result.begin() + ind, list[i]);
   }
   return result;

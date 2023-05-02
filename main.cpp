@@ -5,9 +5,13 @@
 #include<fstream>
 #include<sstream>
 #include <unordered_set>
+
 #include "inverted_index.h"
 
 using namespace std;
+
+
+
 
 // parses string of a sentence into vector of words
 vector<string> parse_input (string& input){
@@ -29,8 +33,8 @@ vector<string> parse_input (string& input){
 
 
 int main(int argc, char*argv[]) {
-  InvertedIndex Data;
 
+  InvertedIndex Data;
 
   // user inputs
   string input;
@@ -66,8 +70,14 @@ int main(int argc, char*argv[]) {
     tweets_non_dup.push_back(*it);
   }
 
+  cout << "\nTweet IDs associated with their similarity scores" << endl;
+  for (unsigned int i=0; i<tweets_non_dup.size(); ++i){
+    cout << "ID: " << tweets_non_dup[i] << "  Similarity Score: " << Data.similarity_score[tweets_non_dup[i]] << endl;
+  }
+  cout << "\n\n";
+
   vector<int> relevant; // hold all the tweets in ascending order of similarity score
-  relevant = Data.relevant_tweets(tweets_non_dup);
+  relevant = Data.relevant_tweets(tweets_non_dup); // calculates and sorts the tweets in ascending order in terms of similarity score
 
   // prints out top 10 similar tweets
   cout << "Printing Top 10 Similar Tweets:" << endl;
@@ -80,4 +90,5 @@ int main(int argc, char*argv[]) {
     i--;
   }
   return 0;
+  
 }
