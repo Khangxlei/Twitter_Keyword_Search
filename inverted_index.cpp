@@ -5,6 +5,8 @@
 #include<fstream>
 #include<sstream>
 #include <unordered_set>
+#include <algorithm>
+
 #include "inverted_index.h"
 
 using namespace std;
@@ -40,6 +42,18 @@ void InvertedIndex::addfile(string filename) {
     tweet[tweet_no] = input_line; //setting the tweet number to its actual tweet
 
     while(s>>word){
+      transform(word.begin(), word.end(), word.begin(), ::tolower);
+          // input string
+  
+      for (int i = 0, len = word.size(); i < len; i++)
+      {
+          // check whether parsing character is punctuation or not
+          if (ispunct(word[i]))
+          {
+              word.erase(i--, 1);
+              len = word.size();
+          }
+      }
       Dictionary[word].push_back(tweet_no);
     }
   }
