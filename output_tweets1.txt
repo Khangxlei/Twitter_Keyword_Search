@@ -1,0 +1,43 @@
+
+Tweet IDs that contains at least one word in the given query
+6 3 10 9 8 7 12 1 24 13 2 25 4 5 14 15 16 17 18 20 21 22 23 26 
+
+
+Tweet IDs associated with their similarity scores
+ID: 6  Similarity Score: 2
+ID: 3  Similarity Score: 2
+ID: 10  Similarity Score: 4
+ID: 9  Similarity Score: 3
+ID: 8  Similarity Score: 6
+ID: 7  Similarity Score: 3
+ID: 12  Similarity Score: 3
+ID: 1  Similarity Score: 3
+ID: 24  Similarity Score: 9
+ID: 13  Similarity Score: 5
+ID: 2  Similarity Score: 5
+ID: 25  Similarity Score: 6
+ID: 4  Similarity Score: 6
+ID: 5  Similarity Score: 4
+ID: 14  Similarity Score: 4
+ID: 15  Similarity Score: 4
+ID: 16  Similarity Score: 3
+ID: 17  Similarity Score: 3
+ID: 18  Similarity Score: 3
+ID: 20  Similarity Score: 3
+ID: 21  Similarity Score: 3
+ID: 22  Similarity Score: 5
+ID: 23  Similarity Score: 5
+ID: 26  Similarity Score: 3
+
+
+Printing Top 10 Similar Tweets:
+1. what Mancity will do to this team. #MUNBHA @chris_obike Guy we won. scared for them in finals I'm scared for Manu in the finals Lucky De Gea.. more scared for the finals, we face in form City 
+2. 5’8” disaster nightmare cousin is very easily convinced to display actual emotions by buns favorite cousin asking nicely, just please don’t be mad at bun for being busy with finals and scared, what do you need :(nibbled fr (scared for finals) #LIZ #IVE 
+3. The way i m streaming D-Day and preparing for my finals tomorrow at the same time but for some reasons, i just am remembering the music, beats and lyrics more than my course materials. YALL IM SCAREDIt’s finals szn by next month! Hella scared sa oral revalida for myself 💀
+4. Na  not to me really. I’m tired of this whole being scared of the Celtics who don’t really look great vs the hawks. Tbh I think the sixers are better. And I think they are going to the finals. Thought for a while now. As a fan I’m tired of being this one roundOh brother he was cooking France in that WC semi finals, i honestly supported Belgium for that world cup , sadly they couldn't score. He looks fat now and idk it looks he is scared to dribble , lost all his confidence. I would rather see him retire than see him play like this@KloppSznn It’s so embarrassing 
+5. Stop copy pasting other people’s tweets. He’s a HOF and played for a franchise that made it to the finals and WCF. He’s not nervous or scared. He’s the most nightly criticized player of the last decades.  What a weird statement lol try againHappy that manutd qualified for the finals. 
+6. How Manchester United celebrate qualifying for the finals vs How Manchester City celebrate qualifying for the finals.... I'm already scared.
+7. between finals and aespa my world im getitng my ass kicked...i'm so excited for my world to release but i'm too scared for that time to be there because finals
+8. Taehyung I just want to say that yeontan is the most adorable tell him hi for me Also Tomorrow I have finals and I'm so nervous and scared that I won't pass.. hopefully I do good; sleep well and take care of yourself. I’m heading north again for City Finals tonight. 
+9. scared i’d get a flop grade for finals like i’ve been doing well so far but im scared things will go an unfortunate turn …
+10. I’m heading north again for City Finals tonight. Any recommendations for being north of the river (at night) are much appreciated (scared). #CCRHLFinals

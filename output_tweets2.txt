@@ -1,0 +1,47 @@
+
+Tweet IDs that contains at least one word in the given query
+17 29 28 27 26 25 10 9 8 7 6 5 1 24 2 3 4 11 12 13 14 15 18 19 20 21 22 23 
+
+
+Tweet IDs associated with their similarity scores
+ID: 17  Similarity Score: 1
+ID: 29  Similarity Score: 4
+ID: 28  Similarity Score: 3
+ID: 27  Similarity Score: 3
+ID: 26  Similarity Score: 3
+ID: 25  Similarity Score: 4
+ID: 10  Similarity Score: 6
+ID: 9  Similarity Score: 3
+ID: 8  Similarity Score: 3
+ID: 7  Similarity Score: 4
+ID: 6  Similarity Score: 3
+ID: 5  Similarity Score: 3
+ID: 1  Similarity Score: 5
+ID: 24  Similarity Score: 3
+ID: 2  Similarity Score: 3
+ID: 3  Similarity Score: 4
+ID: 4  Similarity Score: 6
+ID: 11  Similarity Score: 5
+ID: 12  Similarity Score: 6
+ID: 13  Similarity Score: 3
+ID: 14  Similarity Score: 3
+ID: 15  Similarity Score: 3
+ID: 18  Similarity Score: 3
+ID: 19  Similarity Score: 3
+ID: 20  Similarity Score: 3
+ID: 21  Similarity Score: 3
+ID: 22  Similarity Score: 4
+ID: 23  Similarity Score: 3
+
+
+Printing Top 10 Similar Tweets:
+1. LPHS / PR / MA, we are excited to tell you more about the trips we're planning with EF Tours for the summer of 2024.  EF Tours is our educational travel partner. Please be sure to register, and join us on May 3rd at 6:30 pm @ LPHS for an info session.   https://rsvp.eftours.com/tv7g5b8excited for twink lake this summer 
+2. This is probably the first time I’ve opened up this app and see no negativity lmaoo yall excited for summer and life? Helll yeahhh let’s gooooo You make me excited for the summit summer 
+3. Just excited to get all you baddies ready for summer!!! Ok but I’m so excited to finish school for the year and I can focus on art all summer
+4. Excited to share the latest addition to my #etsy shop: Fresh water pearl Hairpin,mother's day gift, gift for her, gift for him, summer, #wood #pearl #gift #hairpins #freshwaterperal #baroque #summer #highquality #women
+5. just found out my community is offering a free terrarium building workshop in the summer. I am very excited for this, as I have always loved those YouTube videos where people build awesome micro-environments.I'm super excited to announce what I have been working on in Sonoma Coast for the last year. 
+6. Waking up early today for the gym made me excited for those early gym mornings in the summer!
+7. IP rights as the first drop's mascot. Pink Ape... Rosape... get it?@bjirish Uh oh, v excited to spend June-July in AZ for ASU’s Ctr for Biology and Society NEH summer institute but now I’m scared! 
+8. Super excited to announce we get to play with Shenandoah THIS SUMMER!! I grew up listening to them so to be able to share the stage with some of my hero’s is a check off the bucket list for sure! Got some more Summer shows I can’t wait to announce very soon stay tuned
+9. I'm excited to share the new visual for the 15th edition of @FilmsontheGreen ! Our festival is just around the corner, and we can't wait to announce our film selection in a few days. Stay tuned and join us for a summer of unforgettable #MovieNights under the stars!
+10. I’m really excited about going back to California this summer for Comic Con. After that, I need to aim for New York’s later in the year. Every year I say I want to go but never do… so I think it’s time I change that ✨
