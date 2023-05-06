@@ -3,10 +3,9 @@ A project for EC 504 on Inverted Index data structure to effectively retrieve in
 
 ## Steps to compile and run code
 1. Open terminal and go to a directory you want to clone the repository.
-2. Type in the following commands on terminal:
-  - git clone https://github.com/Khangxlei/Twitter_Keyword_Search.git
-  - cd Twitter_Keyword_Search
-3. Compile the programs with the makefile:
+2. Make sure that the input files in the Twitter_Keyword_Search/input directory is in the same directory as the main.cpp file which is the Twitter_Keyword_Search/src directory. (Easiest way is to copy all the files in the input folder into the src folder)
+3. Navigate to the Twitter_Keyword_Search/src directory that contains the main.cpp program.
+4. Compile the programs with the makefile:
   - make -k
 4. Run the program
   - ./output
